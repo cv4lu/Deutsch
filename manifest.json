@@ -1,0 +1,11 @@
+{
+  "name": "Deutsch Trainer Night — Verben und Präpositionen",
+  "short_name": "Deutsch Night",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1110",
+  "theme_color": "#0b1110",
+  "description": "Тёмный немецкий тренажёр: карточки, тест и словарь",
+  "icons": []
+}
